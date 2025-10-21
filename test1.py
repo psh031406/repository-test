@@ -1,5 +1,5 @@
-def print_star() :
-    print('***********')
+def print_at() :
+    print('**********')
 
 print_star()
 print_star()
