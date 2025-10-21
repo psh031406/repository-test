@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 def print_at() :
-    print('**********')
+=======
+def print_at() :
+>>>>>>> test-branch
+    print('*********')
 
-print_star()
 print_star()
 print_star()
 print_star()
